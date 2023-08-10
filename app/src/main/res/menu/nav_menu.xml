@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item
+        android:id="@+id/nav_home"
+        android:title="Home"
+        android:icon="@drawable/ic_home"
+        />
+    <item
+        android:title="Events"
+        android:icon="@drawable/ic_event"
+        />
+    <item android:title="Account">
+        <menu>
+            <item
+                android:id="@+id/nav_login"
+                android:icon="@drawable/ic_login"
+                android:title="Logout"
+                />
+            <item
+                android:id="@+id/nav_feedback"
+                android:icon="@drawable/baseline_feedback_24"
+                android:title="feedback"
+                />
+        </menu>
+
+
+    </item>
+
+
+</menu>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Applicationcse225</string>
+    <string name="title_activity_item_detail_host">ItemDetailHostActivity</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="home">Home</string>
+    <string name="events">Events</string>
+    <string name="account">Account</string>
+    <string name="logout">Logout</string>
+    <string name="todo">TODO</string>
+    <string name="meetings">Meeting</string>
+    <string name="personal">Personal</string>
+    <string name="important">Important</string>
+</resources>
